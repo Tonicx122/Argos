@@ -1,4 +1,4 @@
 # Argos
 API文档：https://docs.tikhub.io/
 
-只放了抖音和小红书的部分数据抓取功能，如需调试其他功能，在Tikhub中添加新函数并修改main.py即可。
+如需调试media_fetch功能，修改main.py和Tikhub中函数即可。
